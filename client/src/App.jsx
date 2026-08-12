@@ -8,7 +8,8 @@ function App() {
   const [count, setCount] = useState(0)
   return (
     <>
-     
+     <h1>Welcome to choicode frontend</h1>
+     <h2>Data</h2>
     </>
   )
 }
