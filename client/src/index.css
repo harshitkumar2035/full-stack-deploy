@@ -90,7 +90,6 @@ h2 {
 p {
   margin: 0;
 }
-
 code,
 .counter {
   font-family: var(--mono);
@@ -98,7 +97,6 @@ code,
   border-radius: 4px;
   color: var(--text-h);
 }
-
 code {
   font-size: 15px;
   line-height: 135%;
